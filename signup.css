@@ -1,0 +1,47 @@
+body {
+    background-image: url(signinimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    color: blueviolet;
+    font-size: 300%;
+}
+
+.T{
+    font-size: 150%;
+    border: 1px dashed black;
+    border-radius:5px ;
+    padding: 20px;
+    background-color: rgba(232, 76, 167, 0.865);
+    width: fit-content;
+    margin:auto;
+}
+
+p {;
+    font-size: 100%;
+}
+footer {
+    background-color: rgba(250, 114, 243, 0.64);
+    color: white;
+    bottom: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+}
+
+.tableB {
+    margin: auto;
+    padding: 10px;
+}
+
+td {
+    padding-right: 100px;
+}
+
+#logo {
+    width: 60px;
+    height: 60px;
+}

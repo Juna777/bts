@@ -1,0 +1,74 @@
+nav {
+    background-color: rgba(223, 21, 115, 0.904);
+    color: rgb(237, 147, 223);
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 16pt;
+    width: 100%;
+    position:sticky;
+    top: 0;
+    display: inline-block;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+}
+
+body {
+    background-image: url(homeimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    background-color: rgb(163, 11, 105);
+}
+
+nav a {
+    color: rgb(247, 235, 247);
+    text-decoration: none;
+    padding: 22px 16px;
+    position: sticky;
+    top: 0;
+}
+
+.links:hover {
+    background-color: rgb(237, 147, 223);
+    color: rgb(167, 6, 71);
+}
+
+p {
+    text-align: center;
+    font-style: oblique;
+    font-size: 180%;
+    color: rgba(105, 10, 137, 0.659);
+}
+
+footer {
+    background-color: rgba(250, 114, 243, 0.64);
+    color: rgb(15, 2, 35);
+    bottom: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+}
+
+table {
+    margin: auto;
+    padding: 10px;
+}
+
+ul {
+    padding: 5px;
+
+}
+
+td {
+    padding-right: 100px;
+}
+
+#logo {
+    width: 60px;
+    height: 60px;
+}
